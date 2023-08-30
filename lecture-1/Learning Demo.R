@@ -2,6 +2,8 @@
 # An Overview of Statistical Learning #
 #######################################
 
+
+
 # Import the data set (income.txt) to R
 # Set the working directory using menu manipulation
 # or setwd("~/Dropbox/WMU/TEACHING/STAT 5850 Applied Data Mining (Fall 2023)/Lecture Slides/Lecture 1")
