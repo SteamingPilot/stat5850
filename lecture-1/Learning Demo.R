@@ -5,7 +5,7 @@
 # Import the data set (income.txt) to R
 # Set the working directory using menu manipulation
 # or setwd("~/Dropbox/WMU/TEACHING/STAT 5850 Applied Data Mining (Fall 2023)/Lecture Slides/Lecture 1")
-income_data <- read.table("income.txt", header = T)
+income_data <- read.table("./Income.txt", header = T)
 income_data
 
 # Education: Years of Education
